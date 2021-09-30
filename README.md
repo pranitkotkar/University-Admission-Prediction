@@ -17,7 +17,7 @@ I have trained regression models to find the probability of a student getting ac
 3. Decision Tree accuracy: 49.00%
 4. Random Forest accuracy: 79.77%
 
-The highest accuracy was obtained was 81.99% for the Linear Regression model
+The highest accuracy obtained was 81.99% for the Linear Regression model
 
 ### various regression models KPIs
 1. RMSE (Root Mean Squared Error) = 5.6%
