@@ -1,6 +1,6 @@
 # University-Admission-Prediction
 
-I have trained regression models to find the probability of a student getting accepted into a particular university based on their profile. This project could be practically used to get the university acceptance rate for individual students using web application.
+I have trained regression models to find the probability of a student getting accepted into a particular university based on their profile.
 
 ### The factors used to determine the chances are:-
 1. GRE score (out of 340)
